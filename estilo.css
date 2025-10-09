@@ -1,6 +1,5 @@
 body{
-    background-color: mediumorchid;
-    color: indigo;
+    background-color: rgb(43, 53, 127);
     display: flex;
     justify-content: center;
     align-items: center;
