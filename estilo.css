@@ -1,4 +1,25 @@
 body{
     background-color: mediumorchid;
     color: indigo;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    text-align: center;
+    max-width: 90%
+ }
+ button{
+    background-color: aliceblue;
+    color: aliceblue;
+    padding: 20px;
+ }
+ .img01{
+    width: 95%;
+ }
+ .passo{
+    display: none;
+ }
+.passo.ativo{
+    display: block;
 }
